@@ -104,6 +104,8 @@ namespace BlazorApp1.Server
                     return activity.ParentId;
                 case ActivityIdFormat.W3C:
                     return activity.ParentSpanId.ToHexString();
+                case ActivityIdFormat.Unknown:
+                    return string.Empty;
                 default:
                     return string.Empty;
             }

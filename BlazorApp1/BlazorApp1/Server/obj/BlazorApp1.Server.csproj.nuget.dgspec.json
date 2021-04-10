@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Server\\BlazorApp1.Server.csproj": {}
+    "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Server\\BlazorApp1.Server.csproj": {}
   },
   "projects": {
-    "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Client\\BlazorApp1.Client.csproj": {
+    "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Client\\BlazorApp1.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Client\\BlazorApp1.Client.csproj",
+        "projectUniqueName": "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Client\\BlazorApp1.Client.csproj",
         "projectName": "BlazorApp1.Client",
-        "projectPath": "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Client\\BlazorApp1.Client.csproj",
+        "projectPath": "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Client\\BlazorApp1.Client.csproj",
         "packagesPath": "C:\\Users\\MsP\\.nuget\\packages\\",
-        "outputPath": "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Client\\obj\\",
+        "outputPath": "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -33,8 +33,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj": {
-                "projectPath": "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj"
+              "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj": {
+                "projectPath": "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Server\\BlazorApp1.Server.csproj": {
+    "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Server\\BlazorApp1.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
+        "projectUniqueName": "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
         "projectName": "BlazorApp1.Server",
-        "projectPath": "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
+        "projectPath": "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
         "packagesPath": "C:\\Users\\MsP\\.nuget\\packages\\",
-        "outputPath": "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Server\\obj\\",
+        "outputPath": "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -122,11 +122,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Client\\BlazorApp1.Client.csproj": {
-                "projectPath": "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Client\\BlazorApp1.Client.csproj"
+              "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Client\\BlazorApp1.Client.csproj": {
+                "projectPath": "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Client\\BlazorApp1.Client.csproj"
               },
-              "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj": {
-                "projectPath": "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj"
+              "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj": {
+                "projectPath": "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj"
               }
             }
           }
@@ -184,14 +184,14 @@
         }
       }
     },
-    "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj": {
+    "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj",
+        "projectUniqueName": "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj",
         "projectName": "BlazorApp1.Shared",
-        "projectPath": "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj",
+        "projectPath": "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj",
         "packagesPath": "C:\\Users\\MsP\\.nuget\\packages\\",
-        "outputPath": "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Shared\\obj\\",
+        "outputPath": "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

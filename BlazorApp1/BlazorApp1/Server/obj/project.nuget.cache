@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iU6Jq8UlClT1eqRNx0V7h9j2JuL0SSgLwaCpcivRtWRFyC+NsdsdeYEPb8Gr2zd5N3RXRoGIc7j9DXTnzgsTSg==",
+  "dgSpecHash": "hVOfb8nVhmNYAxd2LN1u3/yhy7TcN7hSD13a/IF32waHMSNZ5C8SVnzXMUhZVRw6CjFyb1pYrv0+a7Cy3ZQrhA==",
   "success": true,
-  "projectFilePath": "E:\\SaeedProjects\\blazor\\BlazorApp1\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
+  "projectFilePath": "E:\\SaeedProjects\\GithubRepo\\.net5Repo\\BlazorApp1\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MsP\\.nuget\\packages\\elasticsearch.net\\7.8.1\\elasticsearch.net.7.8.1.nupkg.sha512",
     "C:\\Users\\MsP\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.2\\microsoft.aspnetcore.authorization.5.0.2.nupkg.sha512",
